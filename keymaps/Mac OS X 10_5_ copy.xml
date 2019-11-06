@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="Debug" />
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
@@ -6,6 +10,10 @@
   </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="RecentFiles" />
   <action id="Vcs.ShowMessageHistory">
