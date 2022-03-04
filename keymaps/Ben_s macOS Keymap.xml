@@ -1,4 +1,8 @@
 <keymap version="1" name="Ben's macOS Keymap" parent="Mac OS X 10.5+">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -9,6 +13,9 @@
   </action>
   <action id="CIDR.Lang.ObjC.IntroduceIvar" />
   <action id="ChooseDebugConfiguration" />
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
   <action id="CollapseSelection" />
   <action id="CompareTwoFiles" />
   <action id="CompileDirty">
@@ -18,13 +25,14 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="Diff.ShowDiff" />
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
@@ -56,6 +64,10 @@
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="UsageGrouping.DirectoryStructure" />
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="Vcs.Push" />
   <action id="XDebugger.AttachToProcess" />
   <action id="XDebugger.CopyWatch" />
