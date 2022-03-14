@@ -3,7 +3,7 @@
     <property name="created">2022-03-11T16:33:56</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.22</property>
-    <property name="modified">2022-03-13T09:36:19</property>
+    <property name="modified">2022-03-13T22:34:23</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -212,7 +212,7 @@
       <value>
         <option name="FOREGROUND" value="50afde" />
         <option name="EFFECT_COLOR" value="4d7f99" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
