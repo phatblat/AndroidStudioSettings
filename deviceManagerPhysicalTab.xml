@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="23281FDF60044K" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-02T00:20:05.272628Z" />
+        <name value="Google Pixel 6" />
+        <target value="Android API 33" />
+        <api value="Tiramisu" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="94FAY0NNF0" />
           </Key>
         </key>
