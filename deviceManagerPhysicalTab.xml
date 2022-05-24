@@ -5,24 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="R5CR71N7RSD" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-05-02T04:46:39.621392Z" />
-        <name value="samsung SM-F711U1" />
-        <target value="Android 12.0" />
-        <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="23281FDF60044K" />
           </Key>
         </key>
         <name value="Google Pixel 6" />
         <target value="Android API 33" />
         <api value="Tiramisu" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R5CR71N7RSD" />
+          </Key>
+        </key>
+        <name value="samsung SM-F711U1" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
