@@ -11,6 +11,11 @@
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="CIDR.Lang.ObjC.IntroduceIvar" />
   <action id="ChangesView.Move" />
@@ -53,6 +58,8 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -67,11 +74,15 @@
   </action>
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
+  <action id="List-selectFirstRow" />
+  <action id="List-selectLastRow" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="meta up" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
@@ -111,6 +122,9 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="ShowSearchHistory" />
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
@@ -121,6 +135,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
