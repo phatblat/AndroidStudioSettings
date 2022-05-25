@@ -11,6 +11,11 @@
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CIDR.Lang.ObjC.IntroduceIvar" />
   <action id="ChooseDebugConfiguration" />
   <action id="CleanGradleProject">
@@ -35,6 +40,8 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="GotoDeclaration">
@@ -44,6 +51,16 @@
   </action>
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
+  <action id="List-selectFirstRow" />
+  <action id="List-selectLastRow" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="RecentFiles" />
   <action id="Refresh" />
   <action id="Replace">
@@ -58,6 +75,9 @@
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowSearchHistory" />
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
@@ -68,6 +88,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.Push" />
   <action id="XDebugger.AttachToProcess" />
   <action id="XDebugger.CopyWatch" />
