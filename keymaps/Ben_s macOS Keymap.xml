@@ -16,18 +16,12 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
-  <action id="CIDR.Lang.IntroduceDefine" />
   <action id="CIDR.Lang.ObjC.IntroduceIvar" />
-  <action id="ChangesView.Move" />
   <action id="ChooseDebugConfiguration" />
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="CollapseSelection" />
-  <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="meta alt slash" />
-    <keyboard-shortcut first-keystroke="shift meta divide" />
-  </action>
   <action id="CompareTwoFiles" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta b" />
@@ -35,24 +29,12 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
-  <action id="Debugger.EditFrameSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
   <action id="Diff.ShowDiff" />
-  <action id="DomCollectionControl.Edit">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
   <action id="DuplicatesForm.SendToRight" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -60,13 +42,8 @@
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
-  <action id="ExternalSystem.OpenConfig">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
-  <action id="Flutter.JumpToSource" />
-  <action id="GotoAction" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="Force touch" />
@@ -84,21 +61,6 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
-  <action id="NavBar-navigate">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-  </action>
-  <action id="OpenModuleSettings">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-  </action>
-  <action id="ProjectViewEditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
   <action id="RecentFiles" />
   <action id="Refresh" />
   <action id="Replace">
@@ -109,19 +71,10 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
-  <action id="SearchEverywhere.NavigateToNextGroup">
-    <keyboard-shortcut first-keystroke="page_down" />
-  </action>
-  <action id="SearchEverywhere.NavigateToPrevGroup">
-    <keyboard-shortcut first-keystroke="page_up" />
-  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="SendEOF" />
-  <action id="ShowNavBar">
-    <keyboard-shortcut first-keystroke="alt home" />
-  </action>
   <action id="ShowSearchHistory" />
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
@@ -136,16 +89,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
-  <action id="Vcs.EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.Push" />
   <action id="XDebugger.AttachToProcess" />
   <action id="XDebugger.CopyWatch" />
-  <action id="XDebugger.JumpToSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
