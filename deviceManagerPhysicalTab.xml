@@ -32,7 +32,7 @@
         </key>
         <name value="Google Pixel 6" />
         <target value="Android API 33" />
-        <api value="Tiramisu" />
+        <api value="33" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
