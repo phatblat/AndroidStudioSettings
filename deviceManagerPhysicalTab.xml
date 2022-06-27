@@ -89,6 +89,17 @@
         <target value="Android 8.0" />
         <api value="26" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0123456789ABCDEF" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
