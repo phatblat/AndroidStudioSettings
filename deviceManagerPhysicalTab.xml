@@ -16,6 +16,39 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="94FAY0NNF0" />
+          </Key>
+        </key>
+        <name value="Google Pixel 3a" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0123456789ABCDEF" />
+          </Key>
+        </key>
+        <name value="alps MAX" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="23281FDF60044K" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6" />
+        <target value="Android API 33" />
+        <api value="33" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R5CR71N7RSD" />
           </Key>
         </key>
@@ -33,28 +66,6 @@
         <name value="Unihertz Atom_XL" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="23281FDF60044K" />
-          </Key>
-        </key>
-        <name value="Google Pixel 6" />
-        <target value="Android API 33" />
-        <api value="33" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="94FAY0NNF0" />
-          </Key>
-        </key>
-        <name value="Google Pixel 3a" />
-        <target value="Android API 32" />
-        <api value="32" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -88,17 +99,6 @@
         <name value="samsung SM-J337A" />
         <target value="Android 8.0" />
         <api value="26" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="0123456789ABCDEF" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
