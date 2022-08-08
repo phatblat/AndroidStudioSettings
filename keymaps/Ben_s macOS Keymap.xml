@@ -9,7 +9,7 @@
   <action id="ActivateFavoritesToolWindow" />
   <action id="Android.CleanRun" />
   <action id="Android.SyncProject">
-    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Down" />
@@ -59,10 +59,20 @@
     <mouse-shortcut keystroke="Force touch" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f2" />
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="List-selectFirstRow" />
   <action id="List-selectLastRow" />
+  <action id="MaximizeToolWindow" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
@@ -73,10 +83,17 @@
   </action>
   <action id="RecentFiles" />
   <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
