@@ -99,7 +99,7 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift left_parenthesis" />
+    <keyboard-shortcut first-keystroke="shift right_parenthesis" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta j" />
