@@ -72,12 +72,14 @@
     <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="ImplementMethods" />
   <action id="Inline" />
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="List-selectFirstRow" />
   <action id="List-selectLastRow" />
   <action id="MaximizeToolWindow" />
+  <action id="MethodHierarchy.ImplementMethodAction" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
@@ -93,6 +95,9 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id="RecentFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -121,6 +126,7 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="UsageFiltering.Imports" />
   <action id="UsageGrouping.DirectoryStructure" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
