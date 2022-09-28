@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ditto" />
+    <option name="mostRecentlyUsed" value="permission" />
     <option name="nonFavorites">
       <list>
+        <option value="permission" />
         <option value="ditto" />
       </list>
     </option>
