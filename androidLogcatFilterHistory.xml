@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="ditto" />
     <option name="nonFavorites">
       <list>
+        <option value="ditto" />
         <option value="level:error " />
         <option value="level:error bluetoo" />
         <option value="permissions" />
         <option value="permission" />
-        <option value="ditto" />
       </list>
     </option>
   </component>
