@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="permiss" />
+    <option name="mostRecentlyUsed" value="aware" />
     <option name="nonFavorites">
       <list>
-        <option value="permiss" />
         <option value="aware" />
+        <option value="permiss" />
         <option value="ditto permi" />
         <option value="ditto wifi" />
         <option value="ditto" />
