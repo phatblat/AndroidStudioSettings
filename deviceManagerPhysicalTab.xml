@@ -30,8 +30,9 @@
             <value value="C225A30735" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="Elo Touch Solutions 22in-I-Series-4-Value" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
