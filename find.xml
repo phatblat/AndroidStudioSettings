@@ -5,11 +5,11 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="And*.xml" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.*</mask>
     <mask>*.gradle</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>And*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
