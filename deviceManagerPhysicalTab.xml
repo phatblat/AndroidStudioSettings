@@ -89,6 +89,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-23281FDF60044K-dnRvJA._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Google Pixel 6" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
