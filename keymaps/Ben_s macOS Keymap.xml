@@ -34,9 +34,6 @@
   <action id="CIDR.Lang.ObjC.IntroduceIvar" />
   <action id="ChangesView.Move" />
   <action id="ChooseDebugConfiguration" />
-  <action id="CleanGradleProject">
-    <keyboard-shortcut first-keystroke="shift meta k" />
-  </action>
   <action id="CollapseSelection" />
   <action id="CommentByBlockComment" />
   <action id="CompareTwoFiles" />
@@ -57,6 +54,9 @@
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
