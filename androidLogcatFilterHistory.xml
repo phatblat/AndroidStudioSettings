@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="level:ASSERT " />
+        <option value="crash" />
+        <option value="level:DEBUG " />
         <option value="package:mine" />
       </list>
     </option>
