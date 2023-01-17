@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:assert " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="level:assert " />
         <option value="level:ASSERT " />
         <option value="peer" />
         <option value="presence" />
-        <option value="level:error " />
         <option value="aware" />
         <option value="permiss" />
         <option value="ditto permi" />
