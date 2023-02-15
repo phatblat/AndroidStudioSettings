@@ -5,12 +5,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="23281FDF60044K" />
+            <value value="C225A30735" />
           </Key>
         </key>
-        <name value="Google Pixel 6" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
+        <name value="Elo Touch Solutions 22in-I-Series-4-Value" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -27,12 +27,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="C225A30735" />
+            <value value="23281FDF60044K" />
           </Key>
         </key>
-        <name value="Elo Touch Solutions 22in-I-Series-4-Value" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
+        <name value="Google Pixel 6" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
