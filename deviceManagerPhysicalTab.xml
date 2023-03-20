@@ -16,12 +16,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="94FAY0NNF0" />
+            <value value="00d1e505292abe10" />
           </Key>
         </key>
-        <name value="Google Pixel 3a" />
-        <target value="Android 12L" />
-        <api value="androidversion:32:null:null:true" />
+        <name value="LGE LG-H740" />
+        <target value="Android 6.0" />
+        <api value="androidversion:23:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="W8Q8TGCM9HCYYLOB" />
+          </Key>
+        </key>
+        <name value="Planet Cosmo_Communicator" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -31,8 +42,19 @@
           </Key>
         </key>
         <name value="Google Pixel 6" />
-        <target value="Android Tiramisu" />
+        <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="94FAY0NNF0" />
+          </Key>
+        </key>
+        <name value="Google Pixel 3a" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
