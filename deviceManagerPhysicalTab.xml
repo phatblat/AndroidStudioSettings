@@ -63,9 +63,8 @@
             <value value="ATOMXL0000006753" />
           </Key>
         </key>
-        <name value="Unihertz Atom_XL" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
