@@ -5,12 +5,34 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="4200c44690a6651d" />
+          </Key>
+        </key>
+        <name value="samsung SM-J337A" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="C225A30735" />
           </Key>
         </key>
         <name value="Elo Touch Solutions 22in-I-Series-4-Value" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0123456789ABCDEF" />
+          </Key>
+        </key>
+        <name value="alps MAX" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -110,28 +132,6 @@
         <name value="Google Pixel 6" />
         <target value="Android Tiramisu" />
         <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="4200c44690a6651d" />
-          </Key>
-        </key>
-        <name value="samsung SM-J337A" />
-        <target value="Android 8.0" />
-        <api value="androidversion:26:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="0123456789ABCDEF" />
-          </Key>
-        </key>
-        <name value="alps MAX" />
-        <target value="Android 7.1.1" />
-        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
