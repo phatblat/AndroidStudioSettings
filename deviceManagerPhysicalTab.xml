@@ -5,12 +5,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="4200c44690a6651d" />
+            <value value="0123456789ABCDEF" />
           </Key>
         </key>
-        <name value="samsung SM-J337A" />
-        <target value="Android 8.0" />
-        <api value="androidversion:26:null:null:true" />
+        <name value="alps MAX" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -27,12 +27,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="0123456789ABCDEF" />
+            <value value="4200c44690a6651d" />
           </Key>
         </key>
-        <name value="alps MAX" />
-        <target value="Android 7.1.1" />
-        <api value="androidversion:25:null:null:true" />
+        <name value="samsung SM-J337A" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
