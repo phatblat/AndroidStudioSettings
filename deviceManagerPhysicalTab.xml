@@ -30,7 +30,7 @@
             <value value="4200c44690a6651d" />
           </Key>
         </key>
-        <name value="samsung SM-J337A" />
+        <name value="Device" />
         <target value="Android 8.0" />
         <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
