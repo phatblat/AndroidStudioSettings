@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="cloud" />
     <option name="nonFavorites">
       <list>
+        <option value="cloud" />
+        <option value="ditto" />
+        <option value="auth" />
         <option value="level:error " />
         <option value="level:ASSERT " />
         <option value="crash" />
